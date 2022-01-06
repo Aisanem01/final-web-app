@@ -13,4 +13,3 @@ Project made by Turdumamatova Aisanem and Bakirova Zhanylmyrza.
 ![image](https://user-images.githubusercontent.com/93324684/148260740-e7824e15-d83c-48ef-b219-7c06c03260a0.png)
 
 ![image](https://user-images.githubusercontent.com/93324684/148260847-c7011c1e-c789-4955-94d8-0bbcbf348276.png)
-
